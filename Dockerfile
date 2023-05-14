@@ -1,2 +1,2 @@
-FROM pch18/baota:latest
+FROM pch18/baota:lnp
 EXPOSE 8888
